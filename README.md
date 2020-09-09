@@ -24,7 +24,7 @@ To run this app on your laptop (I used a Mac) do the followings:
 git clone this repository to an appropriate location on your machine:
 
 ```
-git clone https://github.com/Atlas7/react-github-battle-2017.git
+git clone https://github.com/AnkitaDalmia/Github-Battle
 ```
 
 
